@@ -1,4 +1,4 @@
-# SkyVista Flight Booking App
+# SkyKings Flight Booking App
 
 A premium, modern flight booking web application built with React and Vite.
 
